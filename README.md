@@ -45,5 +45,5 @@ Users scan QR codes at registered bins, verify their GPS location, and complete 
 **Matta Sudheeshna**  
 PreFinal-year B.Tech student | Full-stack Developer (MERN)  
 📧 sudheehoney2806@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/chandu-karri-8b583a2b4) 
+
 
