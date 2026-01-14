@@ -36,14 +36,14 @@ Users scan QR codes at registered bins, verify their GPS location, and complete 
 
 ## 📂 Repository
 
-📎 GitHub: [https://github.com/Chandu5342/eco](https://github.com/Chandu5342/eco)
+📎 GitHub: [https://github.com/sudheeshna86/Ecorecylr.git)
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Chandu Karri**  
-Final-year B.Tech student | Full-stack Developer (MERN & .NET)  
-📧 karrichandu309@gmail.com  
+**Matta Sudheeshna**  
+PreFinal-year B.Tech student | Full-stack Developer (MERN)  
+📧 sudheehoney2806@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/chandu-karri-8b583a2b4) 
 
